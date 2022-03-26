@@ -1,7 +1,7 @@
 import requests
 import json
 headers = {'Authorization': 'Bearer AAAAAAAAAAAAAAAAAAAAACouawEAAAAAHRlgxSjjVR9Kgf3VmMp89FoHSao%3D8kmNQUznpGbHWsrqkitxgAaYjzSBI2qZvUo3va2jifj0ZwwWwI'}
-req= requests.get("https://api.twitter.com/2/tweets/search/recent?query=%23AfricansinPoland&max_results=100&until_id=1507670246093590529", headers=headers)
+req= requests.get("https://api.twitter.com/2/tweets/search/recent?query=%23AfricansinPoland&max_results=100", headers=headers)
 response= req.json()
 # saving all tweets to AfricansinPoland.json files. w= write, += creates if file doesn't exist, or replaces file if file exists
 f= open('AfricansinPoland.json', "w+")
