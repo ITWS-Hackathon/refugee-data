@@ -1,3 +1,3 @@
 # refugee-data
 
-In this project we are scraping tweets from API with hashtags such as #AfricansinUkraine and #AfricansinPoland to analyze the negative sentiment against non-white refugees fleeing the war in Ukraine.
+In this project we are scraping tweets from API with hashtags such as #AfricansinUkraine and #AfricansinPoland to analyze the negative sentiment against non-white refugees fleeing the war in Ukraine. We are also looking into how this correlates to the lack of diversity in refugees particularly non-white refugees being accepted into neighboring countries that have agreed to accept refugees.
