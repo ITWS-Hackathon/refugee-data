@@ -10,8 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^16.0.0",
     "express": "^4.17.3",
     "googleapis": "^39.2.0",
+    "node-sheets": "^1.2.0",
     "nodemon": "^2.0.15"
   }
 }
