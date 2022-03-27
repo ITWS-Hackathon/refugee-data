@@ -10,6 +10,8 @@ import { DescComponent } from './desc/desc.component';
 import { GraphComponent } from './graph/graph.component';
 import { NgxEchartsModule } from 'ngx-echarts';
 import { ResourcesComponent } from './resources/resources.component';
+import { BarGraphs1Component } from './bar-graphs1/bar-graphs1.component';
+import { WordcloudComponent } from './wordcloud/wordcloud.component';
 
 @NgModule({
   declarations: [
@@ -19,6 +21,8 @@ import { ResourcesComponent } from './resources/resources.component';
     DescComponent,
     GraphComponent,
     ResourcesComponent,
+    BarGraphs1Component,
+    WordcloudComponent
   ],
   imports: [
     BrowserModule,
