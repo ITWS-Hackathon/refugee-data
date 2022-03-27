@@ -55,6 +55,7 @@ with open('data/frequency_results.csv', 'w') as csvfile:
             if (i,x) in words_counted:
                 continue
             else:
+                i = i.lower()
                 words_counted.append((i,x))
     set(words_counted)
     writer.writerow(["Words", "Frequency"])
