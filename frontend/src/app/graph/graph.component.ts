@@ -25,7 +25,7 @@ export class GraphComponent implements OnInit {
 
   parseData(data: object) {
     let jsonData = JSON.parse(JSON.stringify(data));
-    console.log(jsonData);
+    // console.log(jsonData);
     // console.log(jsonData['Location'])
     // console.log(jsonData['Value'])
     // console.log(jsonData['Year'])
@@ -35,14 +35,14 @@ export class GraphComponent implements OnInit {
       this.value.push(jsonData['Value'][index]);
       this.year.push(jsonData['Value'][index]);
     }
-    console.log(this.location)
-    console.log(this.value)   
-    console.log(this.year) 
+    // console.log(this.location)
+    // console.log(this.value)   
+    // console.log(this.year) 
   }
 
   ngOnInit(): void {
     this.backend.getRequest('http://localhost:3000/continents').subscribe(data => {
-      console.log(data)
+      // console.log(data)
         this.parseData(data!);
         const xAxisData = [];
         const datas: Array<Array<number>> = [];
