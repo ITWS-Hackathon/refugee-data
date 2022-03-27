@@ -7,6 +7,9 @@ import { AppComponent } from './app.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { FooterComponent } from './footer/footer.component';
 import { DescComponent } from './desc/desc.component';
+import { GraphComponent } from './graph/graph.component';
+import { NgChartsModule } from 'ng2-charts';
+import { NgxEchartsModule } from 'ngx-echarts';
 import { ResourcesComponent } from './resources/resources.component';
 
 @NgModule({
@@ -15,11 +18,16 @@ import { ResourcesComponent } from './resources/resources.component';
     NavbarComponent,
     FooterComponent,
     DescComponent,
-    ResourcesComponent
+    GraphComponent,
+    ResourcesComponent,
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
+    NgChartsModule,
+    NgxEchartsModule.forRoot({
+      echarts: () => import('echarts')
+    }),
     RouterModule.forRoot([
       {path: 'resources', component: ResourcesComponent},
     ]),
