@@ -8,6 +8,7 @@ import { NavbarComponent } from './navbar/navbar.component';
 import { FooterComponent } from './footer/footer.component';
 import { DescComponent } from './desc/desc.component';
 import { ResourcesComponent } from './resources/resources.component';
+import { BarGraphs1Component } from './bar-graphs1/bar-graphs1.component';
 
 @NgModule({
   declarations: [
@@ -15,7 +16,8 @@ import { ResourcesComponent } from './resources/resources.component';
     NavbarComponent,
     FooterComponent,
     DescComponent,
-    ResourcesComponent
+    ResourcesComponent,
+    BarGraphs1Component
   ],
   imports: [
     BrowserModule,
