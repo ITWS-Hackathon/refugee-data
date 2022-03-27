@@ -1,214 +1,1279 @@
-	Inbound Country	2015	2016	2017	2018	2019	2020
-0	Africa: Students from Cape Verde	1.0	1.0	1.0	1.0	1.0	1.0
-1	Africa: Students from Liberia	12.0	12.0	12.0	12.0	12.0	12.0
-2	Africa: Students from Côte d'Ivoire	52.0	52.0	52.0	52.0	52.0	52.0
-3	Africa: Students from Algeria	110.0	110.0	110.0	110.0	110.0	110.0
-4	Africa: Students from Gabon	33.0	33.0	33.0	33.0	33.0	33.0
-5	Africa: Students from Kenya	95.0	95.0	95.0	95.0	95.0	95.0
-6	Africa: Students from Eritrea	12.0	12.0	12.0	12.0	12.0	12.0
-7	Africa: Students from Burundi						
-8	Africa: Students from Burkina Faso	4.0	4.0	4.0	4.0	4.0	4.0
-9	Africa: Students from Guinea-Bissau	3.0	3.0	3.0	3.0	3.0	3.0
-10	Africa: Students from Chad	3.0	3.0	3.0	3.0	3.0	3.0
-11	Africa: Students from Madagascar	24.0	24.0	24.0	24.0	24.0	24.0
-12	Africa: Students from Equatorial Guinea	33.0	33.0	33.0	33.0	33.0	33.0
-13	Africa: Students from Ghana	715.0	715.0	715.0	715.0	715.0	715.0
-14	Africa: Students from Djibouti	1.0	1.0	1.0	1.0	1.0	1.0
-15	Africa: Students from Benin	5.0	5.0	5.0	5.0	5.0	5.0
-16	Africa: Students from Cameroon	368.0	368.0	368.0	368.0	368.0	368.0
-17	Africa: Students from the Democratic Republic of the Congo	278.0	278.0	278.0	278.0	278.0	278.0
-18	Africa: Students from Lesotho	2.0	2.0	2.0	2.0	2.0	2.0
-19	Africa: Students from Ethiopia	20.0	20.0	20.0	20.0	20.0	20.0
-20	Africa: Students from the Congo	389.0	389.0	389.0	389.0	389.0	389.0
-21	Africa: Students from Comoros	3.0	3.0	3.0	3.0	3.0	3.0
-22	Africa: Students from Botswana	8.0	8.0	8.0	8.0	8.0	8.0
-23	Africa: Students from Guinea	68.0	68.0	68.0	68.0	68.0	68.0
-24	Africa: Students from Angola	447.0	447.0	447.0	447.0	447.0	447.0
-25	Africa: Students from Libya	198.0	198.0	198.0	198.0	198.0	198.0
-26	Africa: Students from Egypt	259.0	259.0	259.0	259.0	259.0	259.0
-27	Africa: Students from the Central African Republic						
-28	Africa: Students from the Gambia	4.0	4.0	4.0	4.0	4.0	4.0
-29	Caribbean and Central America: Students from Nicaragua						
-30	Caribbean and Central America: Students from Cuba	3.0	3.0	3.0	3.0	3.0	3.0
-31	Africa: Students from Mauritania	3.0	3.0	3.0	3.0	3.0	3.0
-32	South America: Students from Colombia	3.0	3.0	3.0	3.0	3.0	3.0
-33	South America: Students from Guyana						
-34	Caribbean and Central America: Students from Saint Kitts and Nevis						
-35	North America: Students from Canada	46.0	46.0	46.0	46.0	46.0	46.0
-36	Africa: Students from Niger	2.0	2.0	2.0	2.0	2.0	2.0
-37	Africa: Students from Rwanda	13.0	13.0	13.0	13.0	13.0	13.0
-38	Africa: Students from Tunisia	479.0	479.0	479.0	479.0	479.0	479.0
-39	South America: Students from the Bolivarian Republic of Venezuela	3.0	3.0	3.0	3.0	3.0	3.0
-40	Caribbean and Central America: Students from Guatemala						
-41	Caribbean and Central America: Students from Aruba						
-42	Caribbean and Central America: Students from Barbados						
-43	Africa: Students from Somalia	17.0	17.0	17.0	17.0	17.0	17.0
-44	Africa: Students from unknown countries						
-45	Caribbean and Central America: Students from Honduras						
-46	Caribbean and Central America: Students from Mexico	5.0	5.0	5.0	5.0	5.0	5.0
-47	Caribbean and Central America: Students from the British Virgin Islands						
-48	Africa: Students from Senegal	28.0	28.0	28.0	28.0	28.0	28.0
-49	South America: Students from the Plurinational State of Bolivia						
-50	South America: Students from Uruguay						
-51	South America: Students from Chile	1.0	1.0	1.0	1.0	1.0	1.0
-52	Africa: Students from Zimbabwe	120.0	120.0	120.0	120.0	120.0	120.0
-53	Africa: Students from Morocco	1978.0	1978.0	1978.0	1978.0	1978.0	1978.0
-54	Africa: Students from Sierra Leone	52.0	52.0	52.0	52.0	52.0	52.0
-55	Africa: Students from Namibia	269.0	269.0	269.0	269.0	269.0	269.0
-56	Caribbean and Central America: Students from Dominican Republic						
-57	North America: Students from unknown countries						
-58	Caribbean and Central America: Students from Antigua and Barbuda						
-59	Africa: Students from the United Republic of Tanzania	101.0	101.0	101.0	101.0	101.0	101.0
-60	South America: Students from Peru	10.0	10.0	10.0	10.0	10.0	10.0
-61	Caribbean and Central America: Students from Grenada						
-62	Caribbean and Central America: Students from Haiti						
-63	Caribbean and Central America: Students from the Turks and Caicos Islands						
-64	Caribbean and Central America: Students from Bahamas						
-65	Africa: Students from Nigeria	3328.0	3328.0	3328.0	3328.0	3328.0	3328.0
-66	South America: Students from Paraguay						
-67	Africa: Students from Mali	43.0	43.0	43.0	43.0	43.0	43.0
-68	South America: Students from Argentina	33.0	33.0	33.0	33.0	33.0	33.0
-69	Africa: Students from Uganda	20.0	20.0	20.0	20.0	20.0	20.0
-70	Africa: Students from South Africa	14.0	14.0	14.0	14.0	14.0	14.0
-71	Africa: Students from Mauritius	8.0	8.0	8.0	8.0	8.0	8.0
-72	Caribbean and Central America: Students from Costa Rica						
-73	North America: Students from Bermuda						
-74	Africa: Students from Togo	3.0	3.0	3.0	3.0	3.0	3.0
-75	South America: Students from Ecuador	370.0	370.0	370.0	370.0	370.0	370.0
-76	Caribbean and Central America: Students from Dominica						
-77	Caribbean and Central America: Students from Panama						
-78	Caribbean and Central America: Students from Saint Lucia						
-79	Caribbean and Central America: Students from El Salvador						
-80	Africa: Students from Mozambique						
-81	South America: Students from Suriname						
-82	Caribbean and Central America: Students from Trinidad and Tobago						
-83	Africa: Students from Eswatini	13.0	13.0	13.0	13.0	13.0	13.0
-84	Africa: Students from Sao Tome and Principe						
-85	Africa: Students from Seychelles	1.0	1.0	1.0	1.0	1.0	1.0
-86	Africa: Students from Malawi	6.0	6.0	6.0	6.0	6.0	6.0
-87	Caribbean and Central America: Students from Belize						
-88	Caribbean and Central America: Students from Jamaica	7.0	7.0	7.0	7.0	7.0	7.0
-89	Africa: Students from Zambia	136.0	136.0	136.0	136.0	136.0	136.0
-90	North America: Students from the United States	256.0	256.0	256.0	256.0	256.0	256.0
-91	South America: Students from Brazil	7.0	7.0	7.0	7.0	7.0	7.0
-92	Asia: Students from Japan	16.0	16.0	16.0	16.0	16.0	16.0
-93	Asia: Students from Singapore	1.0	1.0	1.0	1.0	1.0	1.0
-94	Asia: Students from unknown countries	2.0	2.0	2.0	2.0	2.0	2.0
-95	Asia: Students from the Democratic People's Republic of Korea	68.0	68.0	68.0	68.0	68.0	68.0
-96	Asia: Students from Oman	3.0	3.0	3.0	3.0	3.0	3.0
-97	Asia: Students from Afghanistan	44.0	44.0	44.0	44.0	44.0	44.0
-98	Europe: Students from Bulgaria	132.0	132.0	132.0	132.0	132.0	132.0
-99	Europe: Students from Finland	22.0	22.0	22.0	22.0	22.0	22.0
-100	Asia: Students from Macao, Special Administrative Region of China						
-101	Asia: Students from Timor-Leste						
-102	Europe: Students from Belgium	4.0	4.0	4.0	4.0	4.0	4.0
-103	Asia: Students from the Republic of Korea	41.0	41.0	41.0	41.0	41.0	41.0
-104	Asia: Students from Bhutan						
-105	Asia: Students from Lao People's Democratic Republic						
-106	Europe: Students from the Holy See						
-107	Asia: Students from Myanmar	2.0	2.0	2.0	2.0	2.0	2.0
-108	Asia: Students from Viet Nam	327.0	327.0	327.0	327.0	327.0	327.0
-109	Asia: Students from Iraq	2611.0	2611.0	2611.0	2611.0	2611.0	2611.0
-110	Asia: Students from the Islamic Republic of Iran	286.0	286.0	286.0	286.0	286.0	286.0
-111	Asia: Students from Uzbekistan	2061.0	2061.0	2061.0	2061.0	2061.0	2061.0
-112	Asia: Students from Hong Kong, Special Administrative Region of China						
-113	Asia: Students from Mongolia	66.0	66.0	66.0	66.0	66.0	66.0
-114	Asia: Students from Azerbaijan	9257.0	9257.0	9257.0	9257.0	9257.0	9257.0
-115	Asia: Students from Kazakhstan	249.0	249.0	249.0	249.0	249.0	249.0
-116	Europe: Students from Greece	31.0	31.0	31.0	31.0	31.0	31.0
-117	Caribbean and Central America: Students from Saint Vincent and the Grenadines						
-118	Asia: Students from Qatar						
-119	Europe: Students from Belarus	351.0	351.0	351.0	351.0	351.0	351.0
-120	Europe: Students from the Czechia	7.0	7.0	7.0	7.0	7.0	7.0
-121	Asia: Students from Cambodia						
-122	Europe: Students from Andorra						
-123	Asia: Students from the Syrian Arab Republic	623.0	623.0	623.0	623.0	623.0	623.0
-124	Asia: Students from Palestine	351.0	351.0	351.0	351.0	351.0	351.0
-125	Asia: Students from Turkmenistan	13485.0	13485.0	13485.0	13485.0	13485.0	13485.0
-126	Europe: Students from Germany	60.0	60.0	60.0	60.0	60.0	60.0
-127	Asia: Students from Malaysia	2.0	2.0	2.0	2.0	2.0	2.0
-128	Asia: Students from India	3925.0	3925.0	3925.0	3925.0	3925.0	3925.0
-129	Europe: Students from Bosnia and Herzegovina						
-130	Asia: Students from Georgia	895.0	895.0	895.0	895.0	895.0	895.0
-131	Asia: Students from Lebanon	567.0	567.0	567.0	567.0	567.0	567.0
-132	Asia: Students from Turkey	1400.0	1400.0	1400.0	1400.0	1400.0	1400.0
-133	Asia: Students from Brunei Darussalam						
-134	Asia: Students from Saudi Arabia	14.0	14.0	14.0	14.0	14.0	14.0
-135	Asia: Students from Israel	822.0	822.0	822.0	822.0	822.0	822.0
-136	Europe: Students from France	8.0	8.0	8.0	8.0	8.0	8.0
-137	Asia: Students from Pakistan	114.0	114.0	114.0	114.0	114.0	114.0
-138	Europe: Students from Albania	5.0	5.0	5.0	5.0	5.0	5.0
-139	Asia: Students from Bangladesh	48.0	48.0	48.0	48.0	48.0	48.0
-140	Asia: Students from the Yemen	73.0	73.0	73.0	73.0	73.0	73.0
-141	Europe: Students from Hungary	5.0	5.0	5.0	5.0	5.0	5.0
-142	Asia: Students from Thailand	2.0	2.0	2.0	2.0	2.0	2.0
-143	Europe: Students from Estonia	2.0	2.0	2.0	2.0	2.0	2.0
-144	Asia: Students from Nepal	41.0	41.0	41.0	41.0	41.0	41.0
-145	Asia: Students from Kyrgyzstan	21.0	21.0	21.0	21.0	21.0	21.0
-146	Asia: Students from Cyprus	16.0	16.0	16.0	16.0	16.0	16.0
-147	Europe: Students from Austria	15.0	15.0	15.0	15.0	15.0	15.0
-148	Asia: Students from Kuwait	57.0	57.0	57.0	57.0	57.0	57.0
-149	Asia: Students from Tajikistan	334.0	334.0	334.0	334.0	334.0	334.0
-150	Asia: Students from Bahrain	22.0	22.0	22.0	22.0	22.0	22.0
-151	Asia: Students from Indonesia	1.0	1.0	1.0	1.0	1.0	1.0
-152	Asia: Students from the Philippines						
-153	Europe: Students from Denmark	5.0	5.0	5.0	5.0	5.0	5.0
-154	Asia: Students from Armenia	431.0	431.0	431.0	431.0	431.0	431.0
-155	Asia: Students from the United Arab Emirates	4.0	4.0	4.0	4.0	4.0	4.0
-156	Asia: Students from Sri Lanka	64.0	64.0	64.0	64.0	64.0	64.0
-157	Europe: Students from Croatia	5.0	5.0	5.0	5.0	5.0	5.0
-158	Asia: Students from Maldives	37.0	37.0	37.0	37.0	37.0	37.0
-159	Asia: Students from China	1750.0	1750.0	1750.0	1750.0	1750.0	1750.0
-160	Asia: Students from Jordan	1911.0	1911.0	1911.0	1911.0	1911.0	1911.0
-161	Europe: Students from the United Kingdom	43.0	43.0	43.0	43.0	43.0	43.0
-162	Oceania: Students from unknown countries						
-163	Europe: Students from Malta						
-164	Oceania: Students from Papua New Guinea						
-165	Europe: Students from Iceland						
-166	Europe: Students from Slovakia	5.0	5.0	5.0	5.0	5.0	5.0
-167	Europe: Students from North Macedonia	2.0	2.0	2.0	2.0	2.0	2.0
-168	Europe: Students from Poland	689.0	689.0	689.0	689.0	689.0	689.0
-169	Europe: Students from San Marino						
-170	Europe: Students from Lithuania	48.0	48.0	48.0	48.0	48.0	48.0
-171	Oceania: Students from Tuvalu	1.0	1.0	1.0	1.0	1.0	1.0
-172	Oceania: Students from Kiribati						
-173	Europe: Students from Switzerland	3.0	3.0	3.0	3.0	3.0	3.0
-174	Oceania: Students from Tonga						
-175	Europe: Students from Liechtenstein						
-176	Europe: Students from the Russian Federation	1814.0	1814.0	1814.0	1814.0	1814.0	1814.0
-177	Oceania: Students from New Zealand	1.0	1.0	1.0	1.0	1.0	1.0
-178	Oceania: Students from the Federated States of Micronesia						
-179	Europe: Students from Montenegro	2.0	2.0	2.0	2.0	2.0	2.0
-180	Europe: Students from Spain	14.0	14.0	14.0	14.0	14.0	14.0
-181	Europe: Students from the Republic of Moldova	763.0	763.0	763.0	763.0	763.0	763.0
-182	Europe: Students from Italy	20.0	20.0	20.0	20.0	20.0	20.0
-183	Oceania: Students from the Solomon Islands						
-184	Oceania: Students from Australia	2.0	2.0	2.0	2.0	2.0	2.0
-185	Europe: Students from Slovenia	1.0	1.0	1.0	1.0	1.0	1.0
-186	Oceania: Students from Samoa						
-187	Oceania: Students from Vanuatu						
-188	Europe: Students from Portugal	5.0	5.0	5.0	5.0	5.0	5.0
-189	Oceania: Students from the Marshall Islands						
-190	Europe: Students from Ireland	4.0	4.0	4.0	4.0	4.0	4.0
-191	Europe: Students from Luxembourg						
-192	Europe: Students from the Ukraine						
-193	Oceania: Students from Fiji						
-194	Europe: Students from Serbia	9.0	9.0	9.0	9.0	9.0	9.0
-195	Europe: Students from Norway	6.0	6.0	6.0	6.0	6.0	6.0
-196	Oceania: Students from Palau						
-197	Caribbean and Central America: Students from Anguilla						
-198	Oceania: Students from Niue						
-199	Oceania: Students from Tokelau						
-200	Caribbean and Central America: Students from the Cayman Islands						
-201	Europe: Students from the Netherlands	6.0	6.0	6.0	6.0	6.0	6.0
-202	Oceania: Students from the Cook Islands						
-203	Europe: Students from Latvia	18.0	18.0	18.0	18.0	18.0	18.0
-204	Europe: Students from Sweden	17.0	17.0	17.0	17.0	17.0	17.0
-205	Caribbean and Central America: Students from Montserrat						
-206	Europe: Students from unknown countries						
-207	Europe: Students from Gibraltar						
-208	Europe: Students from Romania	5.0	5.0	5.0	5.0	5.0	5.0
-209	Europe: Students from Monaco	1.0	1.0	1.0	1.0	1.0	1.0
-210	Oceania: Students from Nauru						
-211	Africa: Students from South Sudan						
-212	Africa: Students from Sudan	233.0	233.0	233.0	233.0	233.0	233.0
+Location,Year,Value
+Africa: Students from Cape Verde,2015,1.0
+Africa: Students from Cape Verde,2016,
+Africa: Students from Cape Verde,2017,
+Africa: Students from Cape Verde,2018,
+Africa: Students from Cape Verde,2019,
+Africa: Students from Cape Verde,2020,
+Africa: Students from Liberia,2015,12.0
+Africa: Students from Liberia,2016,15.0
+Africa: Students from Liberia,2017,16.0
+Africa: Students from Liberia,2018,28.0
+Africa: Students from Liberia,2019,42.0
+Africa: Students from Liberia,2020,53.0
+Africa: Students from Côte d'Ivoire,2015,52.0
+Africa: Students from Côte d'Ivoire,2016,46.0
+Africa: Students from Côte d'Ivoire,2017,54.0
+Africa: Students from Côte d'Ivoire,2018,67.0
+Africa: Students from Côte d'Ivoire,2019,87.0
+Africa: Students from Côte d'Ivoire,2020,122.0
+Africa: Students from Algeria,2015,110.0
+Africa: Students from Algeria,2016,67.0
+Africa: Students from Algeria,2017,81.0
+Africa: Students from Algeria,2018,157.0
+Africa: Students from Algeria,2019,281.0
+Africa: Students from Algeria,2020,522.0
+Africa: Students from Gabon,2015,33.0
+Africa: Students from Gabon,2016,31.0
+Africa: Students from Gabon,2017,20.0
+Africa: Students from Gabon,2018,11.0
+Africa: Students from Gabon,2019,8.0
+Africa: Students from Gabon,2020,4.0
+Africa: Students from Kenya,2015,95.0
+Africa: Students from Kenya,2016,94.0
+Africa: Students from Kenya,2017,80.0
+Africa: Students from Kenya,2018,91.0
+Africa: Students from Kenya,2019,107.0
+Africa: Students from Kenya,2020,116.0
+Africa: Students from Eritrea,2015,12.0
+Africa: Students from Eritrea,2016,9.0
+Africa: Students from Eritrea,2017,9.0
+Africa: Students from Eritrea,2018,9.0
+Africa: Students from Eritrea,2019,6.0
+Africa: Students from Eritrea,2020,8.0
+Africa: Students from Burundi,2015,
+Africa: Students from Burundi,2016,
+Africa: Students from Burundi,2017,
+Africa: Students from Burundi,2018,
+Africa: Students from Burundi,2019,
+Africa: Students from Burundi,2020,
+Africa: Students from Burkina Faso,2015,4.0
+Africa: Students from Burkina Faso,2016,6.0
+Africa: Students from Burkina Faso,2017,6.0
+Africa: Students from Burkina Faso,2018,11.0
+Africa: Students from Burkina Faso,2019,13.0
+Africa: Students from Burkina Faso,2020,12.0
+Africa: Students from Guinea-Bissau,2015,3.0
+Africa: Students from Guinea-Bissau,2016,3.0
+Africa: Students from Guinea-Bissau,2017,2.0
+Africa: Students from Guinea-Bissau,2018,2.0
+Africa: Students from Guinea-Bissau,2019,1.0
+Africa: Students from Guinea-Bissau,2020,
+Africa: Students from Chad,2015,3.0
+Africa: Students from Chad,2016,1.0
+Africa: Students from Chad,2017,
+Africa: Students from Chad,2018,
+Africa: Students from Chad,2019,4.0
+Africa: Students from Chad,2020,1.0
+Africa: Students from Madagascar,2015,24.0
+Africa: Students from Madagascar,2016,22.0
+Africa: Students from Madagascar,2017,22.0
+Africa: Students from Madagascar,2018,17.0
+Africa: Students from Madagascar,2019,13.0
+Africa: Students from Madagascar,2020,10.0
+Africa: Students from Equatorial Guinea,2015,33.0
+Africa: Students from Equatorial Guinea,2016,24.0
+Africa: Students from Equatorial Guinea,2017,21.0
+Africa: Students from Equatorial Guinea,2018,16.0
+Africa: Students from Equatorial Guinea,2019,8.0
+Africa: Students from Equatorial Guinea,2020,11.0
+Africa: Students from Ghana,2015,715.0
+Africa: Students from Ghana,2016,887.0
+Africa: Students from Ghana,2017,1000.0
+Africa: Students from Ghana,2018,1246.0
+Africa: Students from Ghana,2019,1522.0
+Africa: Students from Ghana,2020,1394.0
+Africa: Students from Djibouti,2015,1.0
+Africa: Students from Djibouti,2016,
+Africa: Students from Djibouti,2017,
+Africa: Students from Djibouti,2018,
+Africa: Students from Djibouti,2019,1.0
+Africa: Students from Djibouti,2020,
+Africa: Students from Benin,2015,5.0
+Africa: Students from Benin,2016,1.0
+Africa: Students from Benin,2017,1.0
+Africa: Students from Benin,2018,1.0
+Africa: Students from Benin,2019,2.0
+Africa: Students from Benin,2020,4.0
+Africa: Students from Cameroon,2015,368.0
+Africa: Students from Cameroon,2016,304.0
+Africa: Students from Cameroon,2017,271.0
+Africa: Students from Cameroon,2018,237.0
+Africa: Students from Cameroon,2019,249.0
+Africa: Students from Cameroon,2020,316.0
+Africa: Students from the Democratic Republic of the Congo,2015,278.0
+Africa: Students from the Democratic Republic of the Congo,2016,234.0
+Africa: Students from the Democratic Republic of the Congo,2017,179.0
+Africa: Students from the Democratic Republic of the Congo,2018,176.0
+Africa: Students from the Democratic Republic of the Congo,2019,174.0
+Africa: Students from the Democratic Republic of the Congo,2020,205.0
+Africa: Students from Lesotho,2015,2.0
+Africa: Students from Lesotho,2016,3.0
+Africa: Students from Lesotho,2017,3.0
+Africa: Students from Lesotho,2018,2.0
+Africa: Students from Lesotho,2019,3.0
+Africa: Students from Lesotho,2020,3.0
+Africa: Students from Ethiopia,2015,20.0
+Africa: Students from Ethiopia,2016,8.0
+Africa: Students from Ethiopia,2017,8.0
+Africa: Students from Ethiopia,2018,5.0
+Africa: Students from Ethiopia,2019,14.0
+Africa: Students from Ethiopia,2020,36.0
+Africa: Students from the Congo,2015,389.0
+Africa: Students from the Congo,2016,359.0
+Africa: Students from the Congo,2017,367.0
+Africa: Students from the Congo,2018,348.0
+Africa: Students from the Congo,2019,268.0
+Africa: Students from the Congo,2020,207.0
+Africa: Students from Comoros,2015,3.0
+Africa: Students from Comoros,2016,1.0
+Africa: Students from Comoros,2017,1.0
+Africa: Students from Comoros,2018,2.0
+Africa: Students from Comoros,2019,10.0
+Africa: Students from Comoros,2020,
+Africa: Students from Botswana,2015,8.0
+Africa: Students from Botswana,2016,10.0
+Africa: Students from Botswana,2017,8.0
+Africa: Students from Botswana,2018,8.0
+Africa: Students from Botswana,2019,7.0
+Africa: Students from Botswana,2020,3.0
+Africa: Students from Guinea,2015,68.0
+Africa: Students from Guinea,2016,51.0
+Africa: Students from Guinea,2017,50.0
+Africa: Students from Guinea,2018,46.0
+Africa: Students from Guinea,2019,61.0
+Africa: Students from Guinea,2020,76.0
+Africa: Students from Angola,2015,447.0
+Africa: Students from Angola,2016,450.0
+Africa: Students from Angola,2017,382.0
+Africa: Students from Angola,2018,314.0
+Africa: Students from Angola,2019,219.0
+Africa: Students from Angola,2020,168.0
+Africa: Students from Libya,2015,198.0
+Africa: Students from Libya,2016,264.0
+Africa: Students from Libya,2017,366.0
+Africa: Students from Libya,2018,464.0
+Africa: Students from Libya,2019,468.0
+Africa: Students from Libya,2020,469.0
+Africa: Students from Egypt,2015,259.0
+Africa: Students from Egypt,2016,546.0
+Africa: Students from Egypt,2017,1145.0
+Africa: Students from Egypt,2018,1887.0
+Africa: Students from Egypt,2019,2632.0
+Africa: Students from Egypt,2020,2849.0
+Africa: Students from the Central African Republic,2015,
+Africa: Students from the Central African Republic,2016,
+Africa: Students from the Central African Republic,2017,
+Africa: Students from the Central African Republic,2018,
+Africa: Students from the Central African Republic,2019,
+Africa: Students from the Central African Republic,2020,1.0
+Africa: Students from the Gambia,2015,4.0
+Africa: Students from the Gambia,2016,5.0
+Africa: Students from the Gambia,2017,11.0
+Africa: Students from the Gambia,2018,27.0
+Africa: Students from the Gambia,2019,47.0
+Africa: Students from the Gambia,2020,60.0
+Caribbean and Central America: Students from Nicaragua,2015,
+Caribbean and Central America: Students from Nicaragua,2016,
+Caribbean and Central America: Students from Nicaragua,2017,
+Caribbean and Central America: Students from Nicaragua,2018,
+Caribbean and Central America: Students from Nicaragua,2019,
+Caribbean and Central America: Students from Nicaragua,2020,1.0
+Caribbean and Central America: Students from Cuba,2015,3.0
+Caribbean and Central America: Students from Cuba,2016,4.0
+Caribbean and Central America: Students from Cuba,2017,4.0
+Caribbean and Central America: Students from Cuba,2018,2.0
+Caribbean and Central America: Students from Cuba,2019,1.0
+Caribbean and Central America: Students from Cuba,2020,1.0
+Africa: Students from Mauritania,2015,3.0
+Africa: Students from Mauritania,2016,1.0
+Africa: Students from Mauritania,2017,1.0
+Africa: Students from Mauritania,2018,5.0
+Africa: Students from Mauritania,2019,19.0
+Africa: Students from Mauritania,2020,33.0
+South America: Students from Colombia,2015,3.0
+South America: Students from Colombia,2016,7.0
+South America: Students from Colombia,2017,6.0
+South America: Students from Colombia,2018,9.0
+South America: Students from Colombia,2019,13.0
+South America: Students from Colombia,2020,13.0
+South America: Students from Guyana,2015,
+South America: Students from Guyana,2016,
+South America: Students from Guyana,2017,
+South America: Students from Guyana,2018,
+South America: Students from Guyana,2019,
+South America: Students from Guyana,2020,
+Caribbean and Central America: Students from Saint Kitts and Nevis,2015,
+Caribbean and Central America: Students from Saint Kitts and Nevis,2016,
+Caribbean and Central America: Students from Saint Kitts and Nevis,2017,
+Caribbean and Central America: Students from Saint Kitts and Nevis,2018,
+Caribbean and Central America: Students from Saint Kitts and Nevis,2019,
+Caribbean and Central America: Students from Saint Kitts and Nevis,2020,
+North America: Students from Canada,2015,46.0
+North America: Students from Canada,2016,38.0
+North America: Students from Canada,2017,61.0
+North America: Students from Canada,2018,44.0
+North America: Students from Canada,2019,44.0
+North America: Students from Canada,2020,52.0
+Africa: Students from Niger,2015,2.0
+Africa: Students from Niger,2016,2.0
+Africa: Students from Niger,2017,22.0
+Africa: Students from Niger,2018,3.0
+Africa: Students from Niger,2019,1.0
+Africa: Students from Niger,2020,4.0
+Africa: Students from Rwanda,2015,13.0
+Africa: Students from Rwanda,2016,11.0
+Africa: Students from Rwanda,2017,9.0
+Africa: Students from Rwanda,2018,11.0
+Africa: Students from Rwanda,2019,11.0
+Africa: Students from Rwanda,2020,39.0
+Africa: Students from Tunisia,2015,479.0
+Africa: Students from Tunisia,2016,439.0
+Africa: Students from Tunisia,2017,404.0
+Africa: Students from Tunisia,2018,442.0
+Africa: Students from Tunisia,2019,514.0
+Africa: Students from Tunisia,2020,503.0
+South America: Students from the Bolivarian Republic of Venezuela,2015,3.0
+South America: Students from the Bolivarian Republic of Venezuela,2016,2.0
+South America: Students from the Bolivarian Republic of Venezuela,2017,2.0
+South America: Students from the Bolivarian Republic of Venezuela,2018,1.0
+South America: Students from the Bolivarian Republic of Venezuela,2019,
+South America: Students from the Bolivarian Republic of Venezuela,2020,
+Caribbean and Central America: Students from Guatemala,2015,
+Caribbean and Central America: Students from Guatemala,2016,
+Caribbean and Central America: Students from Guatemala,2017,
+Caribbean and Central America: Students from Guatemala,2018,
+Caribbean and Central America: Students from Guatemala,2019,
+Caribbean and Central America: Students from Guatemala,2020,
+Caribbean and Central America: Students from Aruba,2015,
+Caribbean and Central America: Students from Aruba,2016,
+Caribbean and Central America: Students from Aruba,2017,
+Caribbean and Central America: Students from Aruba,2018,
+Caribbean and Central America: Students from Aruba,2019,
+Caribbean and Central America: Students from Aruba,2020,
+Caribbean and Central America: Students from Barbados,2015,
+Caribbean and Central America: Students from Barbados,2016,
+Caribbean and Central America: Students from Barbados,2017,
+Caribbean and Central America: Students from Barbados,2018,
+Caribbean and Central America: Students from Barbados,2019,
+Caribbean and Central America: Students from Barbados,2020,
+Africa: Students from Somalia,2015,17.0
+Africa: Students from Somalia,2016,10.0
+Africa: Students from Somalia,2017,10.0
+Africa: Students from Somalia,2018,13.0
+Africa: Students from Somalia,2019,23.0
+Africa: Students from Somalia,2020,29.0
+Africa: Students from unknown countries,2015,
+Africa: Students from unknown countries,2016,
+Africa: Students from unknown countries,2017,
+Africa: Students from unknown countries,2018,
+Africa: Students from unknown countries,2019,
+Africa: Students from unknown countries,2020,
+Caribbean and Central America: Students from Honduras,2015,
+Caribbean and Central America: Students from Honduras,2016,
+Caribbean and Central America: Students from Honduras,2017,
+Caribbean and Central America: Students from Honduras,2018,
+Caribbean and Central America: Students from Honduras,2019,
+Caribbean and Central America: Students from Honduras,2020,
+Caribbean and Central America: Students from Mexico,2015,5.0
+Caribbean and Central America: Students from Mexico,2016,9.0
+Caribbean and Central America: Students from Mexico,2017,6.0
+Caribbean and Central America: Students from Mexico,2018,9.0
+Caribbean and Central America: Students from Mexico,2019,11.0
+Caribbean and Central America: Students from Mexico,2020,12.0
+Caribbean and Central America: Students from the British Virgin Islands,2015,
+Caribbean and Central America: Students from the British Virgin Islands,2016,
+Caribbean and Central America: Students from the British Virgin Islands,2017,
+Caribbean and Central America: Students from the British Virgin Islands,2018,
+Caribbean and Central America: Students from the British Virgin Islands,2019,2.0
+Caribbean and Central America: Students from the British Virgin Islands,2020,1.0
+Africa: Students from Senegal,2015,28.0
+Africa: Students from Senegal,2016,16.0
+Africa: Students from Senegal,2017,17.0
+Africa: Students from Senegal,2018,14.0
+Africa: Students from Senegal,2019,14.0
+Africa: Students from Senegal,2020,22.0
+South America: Students from the Plurinational State of Bolivia,2015,
+South America: Students from the Plurinational State of Bolivia,2016,
+South America: Students from the Plurinational State of Bolivia,2017,
+South America: Students from the Plurinational State of Bolivia,2018,
+South America: Students from the Plurinational State of Bolivia,2019,
+South America: Students from the Plurinational State of Bolivia,2020,3.0
+South America: Students from Uruguay,2015,
+South America: Students from Uruguay,2016,
+South America: Students from Uruguay,2017,
+South America: Students from Uruguay,2018,
+South America: Students from Uruguay,2019,
+South America: Students from Uruguay,2020,
+South America: Students from Chile,2015,1.0
+South America: Students from Chile,2016,
+South America: Students from Chile,2017,
+South America: Students from Chile,2018,
+South America: Students from Chile,2019,
+South America: Students from Chile,2020,
+Africa: Students from Zimbabwe,2015,120.0
+Africa: Students from Zimbabwe,2016,230.0
+Africa: Students from Zimbabwe,2017,246.0
+Africa: Students from Zimbabwe,2018,284.0
+Africa: Students from Zimbabwe,2019,267.0
+Africa: Students from Zimbabwe,2020,266.0
+Africa: Students from Morocco,2015,1978.0
+Africa: Students from Morocco,2016,2348.0
+Africa: Students from Morocco,2017,2854.0
+Africa: Students from Morocco,2018,3538.0
+Africa: Students from Morocco,2019,4723.0
+Africa: Students from Morocco,2020,5721.0
+Africa: Students from Sierra Leone,2015,52.0
+Africa: Students from Sierra Leone,2016,68.0
+Africa: Students from Sierra Leone,2017,61.0
+Africa: Students from Sierra Leone,2018,54.0
+Africa: Students from Sierra Leone,2019,45.0
+Africa: Students from Sierra Leone,2020,50.0
+Africa: Students from Namibia,2015,269.0
+Africa: Students from Namibia,2016,292.0
+Africa: Students from Namibia,2017,309.0
+Africa: Students from Namibia,2018,285.0
+Africa: Students from Namibia,2019,210.0
+Africa: Students from Namibia,2020,166.0
+Caribbean and Central America: Students from Dominican Republic,2015,
+Caribbean and Central America: Students from Dominican Republic,2016,
+Caribbean and Central America: Students from Dominican Republic,2017,
+Caribbean and Central America: Students from Dominican Republic,2018,
+Caribbean and Central America: Students from Dominican Republic,2019,
+Caribbean and Central America: Students from Dominican Republic,2020,
+North America: Students from unknown countries,2015,
+North America: Students from unknown countries,2016,
+North America: Students from unknown countries,2017,
+North America: Students from unknown countries,2018,
+North America: Students from unknown countries,2019,
+North America: Students from unknown countries,2020,
+Caribbean and Central America: Students from Antigua and Barbuda,2015,
+Caribbean and Central America: Students from Antigua and Barbuda,2016,
+Caribbean and Central America: Students from Antigua and Barbuda,2017,
+Caribbean and Central America: Students from Antigua and Barbuda,2018,
+Caribbean and Central America: Students from Antigua and Barbuda,2019,
+Caribbean and Central America: Students from Antigua and Barbuda,2020,
+Africa: Students from the United Republic of Tanzania,2015,101.0
+Africa: Students from the United Republic of Tanzania,2016,97.0
+Africa: Students from the United Republic of Tanzania,2017,103.0
+Africa: Students from the United Republic of Tanzania,2018,109.0
+Africa: Students from the United Republic of Tanzania,2019,96.0
+Africa: Students from the United Republic of Tanzania,2020,84.0
+South America: Students from Peru,2015,10.0
+South America: Students from Peru,2016,6.0
+South America: Students from Peru,2017,3.0
+South America: Students from Peru,2018,3.0
+South America: Students from Peru,2019,4.0
+South America: Students from Peru,2020,8.0
+Caribbean and Central America: Students from Grenada,2015,
+Caribbean and Central America: Students from Grenada,2016,
+Caribbean and Central America: Students from Grenada,2017,
+Caribbean and Central America: Students from Grenada,2018,
+Caribbean and Central America: Students from Grenada,2019,
+Caribbean and Central America: Students from Grenada,2020,
+Caribbean and Central America: Students from Haiti,2015,
+Caribbean and Central America: Students from Haiti,2016,
+Caribbean and Central America: Students from Haiti,2017,
+Caribbean and Central America: Students from Haiti,2018,
+Caribbean and Central America: Students from Haiti,2019,
+Caribbean and Central America: Students from Haiti,2020,1.0
+Caribbean and Central America: Students from the Turks and Caicos Islands,2015,
+Caribbean and Central America: Students from the Turks and Caicos Islands,2016,
+Caribbean and Central America: Students from the Turks and Caicos Islands,2017,
+Caribbean and Central America: Students from the Turks and Caicos Islands,2018,
+Caribbean and Central America: Students from the Turks and Caicos Islands,2019,
+Caribbean and Central America: Students from the Turks and Caicos Islands,2020,
+Caribbean and Central America: Students from Bahamas,2015,
+Caribbean and Central America: Students from Bahamas,2016,
+Caribbean and Central America: Students from Bahamas,2017,
+Caribbean and Central America: Students from Bahamas,2018,
+Caribbean and Central America: Students from Bahamas,2019,
+Caribbean and Central America: Students from Bahamas,2020,
+Africa: Students from Nigeria,2015,3328.0
+Africa: Students from Nigeria,2016,3252.0
+Africa: Students from Nigeria,2017,3035.0
+Africa: Students from Nigeria,2018,2742.0
+Africa: Students from Nigeria,2019,2882.0
+Africa: Students from Nigeria,2020,3302.0
+South America: Students from Paraguay,2015,
+South America: Students from Paraguay,2016,
+South America: Students from Paraguay,2017,
+South America: Students from Paraguay,2018,
+South America: Students from Paraguay,2019,
+South America: Students from Paraguay,2020,
+Africa: Students from Mali,2015,43.0
+Africa: Students from Mali,2016,40.0
+Africa: Students from Mali,2017,26.0
+Africa: Students from Mali,2018,21.0
+Africa: Students from Mali,2019,9.0
+Africa: Students from Mali,2020,6.0
+South America: Students from Argentina,2015,33.0
+South America: Students from Argentina,2016,
+South America: Students from Argentina,2017,1.0
+South America: Students from Argentina,2018,2.0
+South America: Students from Argentina,2019,3.0
+South America: Students from Argentina,2020,1.0
+Africa: Students from Uganda,2015,20.0
+Africa: Students from Uganda,2016,15.0
+Africa: Students from Uganda,2017,14.0
+Africa: Students from Uganda,2018,15.0
+Africa: Students from Uganda,2019,14.0
+Africa: Students from Uganda,2020,21.0
+Africa: Students from South Africa,2015,14.0
+Africa: Students from South Africa,2016,15.0
+Africa: Students from South Africa,2017,17.0
+Africa: Students from South Africa,2018,23.0
+Africa: Students from South Africa,2019,33.0
+Africa: Students from South Africa,2020,46.0
+Africa: Students from Mauritius,2015,8.0
+Africa: Students from Mauritius,2016,9.0
+Africa: Students from Mauritius,2017,4.0
+Africa: Students from Mauritius,2018,5.0
+Africa: Students from Mauritius,2019,4.0
+Africa: Students from Mauritius,2020,1.0
+Caribbean and Central America: Students from Costa Rica,2015,
+Caribbean and Central America: Students from Costa Rica,2016,
+Caribbean and Central America: Students from Costa Rica,2017,
+Caribbean and Central America: Students from Costa Rica,2018,
+Caribbean and Central America: Students from Costa Rica,2019,1.0
+Caribbean and Central America: Students from Costa Rica,2020,
+North America: Students from Bermuda,2015,
+North America: Students from Bermuda,2016,
+North America: Students from Bermuda,2017,
+North America: Students from Bermuda,2018,
+North America: Students from Bermuda,2019,
+North America: Students from Bermuda,2020,
+Africa: Students from Togo,2015,3.0
+Africa: Students from Togo,2016,5.0
+Africa: Students from Togo,2017,3.0
+Africa: Students from Togo,2018,1.0
+Africa: Students from Togo,2019,1.0
+Africa: Students from Togo,2020,2.0
+South America: Students from Ecuador,2015,370.0
+South America: Students from Ecuador,2016,371.0
+South America: Students from Ecuador,2017,408.0
+South America: Students from Ecuador,2018,463.0
+South America: Students from Ecuador,2019,492.0
+South America: Students from Ecuador,2020,486.0
+Caribbean and Central America: Students from Dominica,2015,
+Caribbean and Central America: Students from Dominica,2016,
+Caribbean and Central America: Students from Dominica,2017,1.0
+Caribbean and Central America: Students from Dominica,2018,2.0
+Caribbean and Central America: Students from Dominica,2019,2.0
+Caribbean and Central America: Students from Dominica,2020,2.0
+Caribbean and Central America: Students from Panama,2015,
+Caribbean and Central America: Students from Panama,2016,
+Caribbean and Central America: Students from Panama,2017,
+Caribbean and Central America: Students from Panama,2018,
+Caribbean and Central America: Students from Panama,2019,
+Caribbean and Central America: Students from Panama,2020,1.0
+Caribbean and Central America: Students from Saint Lucia,2015,
+Caribbean and Central America: Students from Saint Lucia,2016,
+Caribbean and Central America: Students from Saint Lucia,2017,
+Caribbean and Central America: Students from Saint Lucia,2018,
+Caribbean and Central America: Students from Saint Lucia,2019,
+Caribbean and Central America: Students from Saint Lucia,2020,
+Caribbean and Central America: Students from El Salvador,2015,
+Caribbean and Central America: Students from El Salvador,2016,
+Caribbean and Central America: Students from El Salvador,2017,
+Caribbean and Central America: Students from El Salvador,2018,
+Caribbean and Central America: Students from El Salvador,2019,
+Caribbean and Central America: Students from El Salvador,2020,
+Africa: Students from Mozambique,2015,
+Africa: Students from Mozambique,2016,
+Africa: Students from Mozambique,2017,3.0
+Africa: Students from Mozambique,2018,2.0
+Africa: Students from Mozambique,2019,9.0
+Africa: Students from Mozambique,2020,8.0
+South America: Students from Suriname,2015,
+South America: Students from Suriname,2016,
+South America: Students from Suriname,2017,
+South America: Students from Suriname,2018,
+South America: Students from Suriname,2019,
+South America: Students from Suriname,2020,
+Caribbean and Central America: Students from Trinidad and Tobago,2015,
+Caribbean and Central America: Students from Trinidad and Tobago,2016,
+Caribbean and Central America: Students from Trinidad and Tobago,2017,
+Caribbean and Central America: Students from Trinidad and Tobago,2018,
+Caribbean and Central America: Students from Trinidad and Tobago,2019,
+Caribbean and Central America: Students from Trinidad and Tobago,2020,
+Africa: Students from Eswatini,2015,13.0
+Africa: Students from Eswatini,2016,15.0
+Africa: Students from Eswatini,2017,19.0
+Africa: Students from Eswatini,2018,26.0
+Africa: Students from Eswatini,2019,40.0
+Africa: Students from Eswatini,2020,43.0
+Africa: Students from Sao Tome and Principe,2015,
+Africa: Students from Sao Tome and Principe,2016,
+Africa: Students from Sao Tome and Principe,2017,
+Africa: Students from Sao Tome and Principe,2018,
+Africa: Students from Sao Tome and Principe,2019,
+Africa: Students from Sao Tome and Principe,2020,
+Africa: Students from Seychelles,2015,1.0
+Africa: Students from Seychelles,2016,1.0
+Africa: Students from Seychelles,2017,1.0
+Africa: Students from Seychelles,2018,1.0
+Africa: Students from Seychelles,2019,
+Africa: Students from Seychelles,2020,
+Africa: Students from Malawi,2015,6.0
+Africa: Students from Malawi,2016,7.0
+Africa: Students from Malawi,2017,8.0
+Africa: Students from Malawi,2018,7.0
+Africa: Students from Malawi,2019,8.0
+Africa: Students from Malawi,2020,11.0
+Caribbean and Central America: Students from Belize,2015,
+Caribbean and Central America: Students from Belize,2016,
+Caribbean and Central America: Students from Belize,2017,
+Caribbean and Central America: Students from Belize,2018,
+Caribbean and Central America: Students from Belize,2019,
+Caribbean and Central America: Students from Belize,2020,
+Caribbean and Central America: Students from Jamaica,2015,7.0
+Caribbean and Central America: Students from Jamaica,2016,9.0
+Caribbean and Central America: Students from Jamaica,2017,12.0
+Caribbean and Central America: Students from Jamaica,2018,13.0
+Caribbean and Central America: Students from Jamaica,2019,15.0
+Caribbean and Central America: Students from Jamaica,2020,22.0
+Africa: Students from Zambia,2015,136.0
+Africa: Students from Zambia,2016,142.0
+Africa: Students from Zambia,2017,148.0
+Africa: Students from Zambia,2018,138.0
+Africa: Students from Zambia,2019,137.0
+Africa: Students from Zambia,2020,126.0
+North America: Students from the United States,2015,256.0
+North America: Students from the United States,2016,256.0
+North America: Students from the United States,2017,251.0
+North America: Students from the United States,2018,255.0
+North America: Students from the United States,2019,274.0
+North America: Students from the United States,2020,293.0
+South America: Students from Brazil,2015,7.0
+South America: Students from Brazil,2016,5.0
+South America: Students from Brazil,2017,9.0
+South America: Students from Brazil,2018,16.0
+South America: Students from Brazil,2019,35.0
+South America: Students from Brazil,2020,23.0
+Asia: Students from Japan,2015,16.0
+Asia: Students from Japan,2016,9.0
+Asia: Students from Japan,2017,11.0
+Asia: Students from Japan,2018,22.0
+Asia: Students from Japan,2019,23.0
+Asia: Students from Japan,2020,22.0
+Asia: Students from Singapore,2015,1.0
+Asia: Students from Singapore,2016,1.0
+Asia: Students from Singapore,2017,1.0
+Asia: Students from Singapore,2018,2.0
+Asia: Students from Singapore,2019,2.0
+Asia: Students from Singapore,2020,1.0
+Asia: Students from unknown countries,2015,2.0
+Asia: Students from unknown countries,2016,
+Asia: Students from unknown countries,2017,5.0
+Asia: Students from unknown countries,2018,4.0
+Asia: Students from unknown countries,2019,3.0
+Asia: Students from unknown countries,2020,
+Asia: Students from the Democratic People's Republic of Korea,2015,68.0
+Asia: Students from the Democratic People's Republic of Korea,2016,134.0
+Asia: Students from the Democratic People's Republic of Korea,2017,126.0
+Asia: Students from the Democratic People's Republic of Korea,2018,26.0
+Asia: Students from the Democratic People's Republic of Korea,2019,43.0
+Asia: Students from the Democratic People's Republic of Korea,2020,19.0
+Asia: Students from Oman,2015,3.0
+Asia: Students from Oman,2016,2.0
+Asia: Students from Oman,2017,1.0
+Asia: Students from Oman,2018,
+Asia: Students from Oman,2019,
+Asia: Students from Oman,2020,1.0
+Asia: Students from Afghanistan,2015,44.0
+Asia: Students from Afghanistan,2016,40.0
+Asia: Students from Afghanistan,2017,36.0
+Asia: Students from Afghanistan,2018,55.0
+Asia: Students from Afghanistan,2019,54.0
+Asia: Students from Afghanistan,2020,51.0
+Europe: Students from Bulgaria,2015,132.0
+Europe: Students from Bulgaria,2016,114.0
+Europe: Students from Bulgaria,2017,151.0
+Europe: Students from Bulgaria,2018,181.0
+Europe: Students from Bulgaria,2019,221.0
+Europe: Students from Bulgaria,2020,244.0
+Europe: Students from Finland,2015,22.0
+Europe: Students from Finland,2016,32.0
+Europe: Students from Finland,2017,35.0
+Europe: Students from Finland,2018,40.0
+Europe: Students from Finland,2019,55.0
+Europe: Students from Finland,2020,43.0
+"Asia: Students from Macao, Special Administrative Region of China",2015,
+"Asia: Students from Macao, Special Administrative Region of China",2016,
+"Asia: Students from Macao, Special Administrative Region of China",2017,
+"Asia: Students from Macao, Special Administrative Region of China",2018,
+"Asia: Students from Macao, Special Administrative Region of China",2019,
+"Asia: Students from Macao, Special Administrative Region of China",2020,4.0
+Asia: Students from Timor-Leste,2015,
+Asia: Students from Timor-Leste,2016,
+Asia: Students from Timor-Leste,2017,
+Asia: Students from Timor-Leste,2018,
+Asia: Students from Timor-Leste,2019,
+Asia: Students from Timor-Leste,2020,
+Europe: Students from Belgium,2015,4.0
+Europe: Students from Belgium,2016,6.0
+Europe: Students from Belgium,2017,4.0
+Europe: Students from Belgium,2018,4.0
+Europe: Students from Belgium,2019,4.0
+Europe: Students from Belgium,2020,3.0
+Asia: Students from the Republic of Korea,2015,41.0
+Asia: Students from the Republic of Korea,2016,40.0
+Asia: Students from the Republic of Korea,2017,45.0
+Asia: Students from the Republic of Korea,2018,27.0
+Asia: Students from the Republic of Korea,2019,46.0
+Asia: Students from the Republic of Korea,2020,50.0
+Asia: Students from Bhutan,2015,
+Asia: Students from Bhutan,2016,
+Asia: Students from Bhutan,2017,
+Asia: Students from Bhutan,2018,
+Asia: Students from Bhutan,2019,
+Asia: Students from Bhutan,2020,
+Asia: Students from Lao People's Democratic Republic,2015,
+Asia: Students from Lao People's Democratic Republic,2016,
+Asia: Students from Lao People's Democratic Republic,2017,
+Asia: Students from Lao People's Democratic Republic,2018,
+Asia: Students from Lao People's Democratic Republic,2019,
+Asia: Students from Lao People's Democratic Republic,2020,
+Europe: Students from the Holy See,2015,
+Europe: Students from the Holy See,2016,
+Europe: Students from the Holy See,2017,
+Europe: Students from the Holy See,2018,
+Europe: Students from the Holy See,2019,
+Europe: Students from the Holy See,2020,
+Asia: Students from Myanmar,2015,2.0
+Asia: Students from Myanmar,2016,2.0
+Asia: Students from Myanmar,2017,
+Asia: Students from Myanmar,2018,
+Asia: Students from Myanmar,2019,
+Asia: Students from Myanmar,2020,
+Asia: Students from Viet Nam,2015,327.0
+Asia: Students from Viet Nam,2016,279.0
+Asia: Students from Viet Nam,2017,234.0
+Asia: Students from Viet Nam,2018,196.0
+Asia: Students from Viet Nam,2019,128.0
+Asia: Students from Viet Nam,2020,96.0
+Asia: Students from Iraq,2015,2611.0
+Asia: Students from Iraq,2016,2102.0
+Asia: Students from Iraq,2017,1320.0
+Asia: Students from Iraq,2018,972.0
+Asia: Students from Iraq,2019,630.0
+Asia: Students from Iraq,2020,557.0
+Asia: Students from the Islamic Republic of Iran,2015,286.0
+Asia: Students from the Islamic Republic of Iran,2016,235.0
+Asia: Students from the Islamic Republic of Iran,2017,194.0
+Asia: Students from the Islamic Republic of Iran,2018,356.0
+Asia: Students from the Islamic Republic of Iran,2019,1403.0
+Asia: Students from the Islamic Republic of Iran,2020,1405.0
+Asia: Students from Uzbekistan,2015,2061.0
+Asia: Students from Uzbekistan,2016,2049.0
+Asia: Students from Uzbekistan,2017,2022.0
+Asia: Students from Uzbekistan,2018,1872.0
+Asia: Students from Uzbekistan,2019,1498.0
+Asia: Students from Uzbekistan,2020,1473.0
+"Asia: Students from Hong Kong, Special Administrative Region of China",2015,
+"Asia: Students from Hong Kong, Special Administrative Region of China",2016,
+"Asia: Students from Hong Kong, Special Administrative Region of China",2017,
+"Asia: Students from Hong Kong, Special Administrative Region of China",2018,
+"Asia: Students from Hong Kong, Special Administrative Region of China",2019,
+"Asia: Students from Hong Kong, Special Administrative Region of China",2020,1.0
+Asia: Students from Mongolia,2015,66.0
+Asia: Students from Mongolia,2016,58.0
+Asia: Students from Mongolia,2017,56.0
+Asia: Students from Mongolia,2018,71.0
+Asia: Students from Mongolia,2019,56.0
+Asia: Students from Mongolia,2020,50.0
+Asia: Students from Azerbaijan,2015,9257.0
+Asia: Students from Azerbaijan,2016,9734.0
+Asia: Students from Azerbaijan,2017,8833.0
+Asia: Students from Azerbaijan,2018,6726.0
+Asia: Students from Azerbaijan,2019,5474.0
+Asia: Students from Azerbaijan,2020,4718.0
+Asia: Students from Kazakhstan,2015,249.0
+Asia: Students from Kazakhstan,2016,139.0
+Asia: Students from Kazakhstan,2017,112.0
+Asia: Students from Kazakhstan,2018,103.0
+Asia: Students from Kazakhstan,2019,70.0
+Asia: Students from Kazakhstan,2020,88.0
+Europe: Students from Greece,2015,31.0
+Europe: Students from Greece,2016,20.0
+Europe: Students from Greece,2017,22.0
+Europe: Students from Greece,2018,19.0
+Europe: Students from Greece,2019,53.0
+Europe: Students from Greece,2020,76.0
+Caribbean and Central America: Students from Saint Vincent and the Grenadines,2015,
+Caribbean and Central America: Students from Saint Vincent and the Grenadines,2016,
+Caribbean and Central America: Students from Saint Vincent and the Grenadines,2017,
+Caribbean and Central America: Students from Saint Vincent and the Grenadines,2018,
+Caribbean and Central America: Students from Saint Vincent and the Grenadines,2019,
+Caribbean and Central America: Students from Saint Vincent and the Grenadines,2020,
+Asia: Students from Qatar,2015,
+Asia: Students from Qatar,2016,
+Asia: Students from Qatar,2017,8.0
+Asia: Students from Qatar,2018,1.0
+Asia: Students from Qatar,2019,1.0
+Asia: Students from Qatar,2020,1.0
+Europe: Students from Belarus,2015,351.0
+Europe: Students from Belarus,2016,270.0
+Europe: Students from Belarus,2017,309.0
+Europe: Students from Belarus,2018,291.0
+Europe: Students from Belarus,2019,341.0
+Europe: Students from Belarus,2020,329.0
+Europe: Students from the Czechia,2015,7.0
+Europe: Students from the Czechia,2016,8.0
+Europe: Students from the Czechia,2017,231.0
+Europe: Students from the Czechia,2018,24.0
+Europe: Students from the Czechia,2019,9.0
+Europe: Students from the Czechia,2020,15.0
+Asia: Students from Cambodia,2015,
+Asia: Students from Cambodia,2016,
+Asia: Students from Cambodia,2017,1.0
+Asia: Students from Cambodia,2018,
+Asia: Students from Cambodia,2019,
+Asia: Students from Cambodia,2020,
+Europe: Students from Andorra,2015,
+Europe: Students from Andorra,2016,
+Europe: Students from Andorra,2017,
+Europe: Students from Andorra,2018,
+Europe: Students from Andorra,2019,
+Europe: Students from Andorra,2020,
+Asia: Students from the Syrian Arab Republic,2015,623.0
+Asia: Students from the Syrian Arab Republic,2016,501.0
+Asia: Students from the Syrian Arab Republic,2017,444.0
+Asia: Students from the Syrian Arab Republic,2018,438.0
+Asia: Students from the Syrian Arab Republic,2019,415.0
+Asia: Students from the Syrian Arab Republic,2020,402.0
+Asia: Students from Palestine,2015,351.0
+Asia: Students from Palestine,2016,347.0
+Asia: Students from Palestine,2017,377.0
+Asia: Students from Palestine,2018,430.0
+Asia: Students from Palestine,2019,527.0
+Asia: Students from Palestine,2020,471.0
+Asia: Students from Turkmenistan,2015,13485.0
+Asia: Students from Turkmenistan,2016,9979.0
+Asia: Students from Turkmenistan,2017,6291.0
+Asia: Students from Turkmenistan,2018,3679.0
+Asia: Students from Turkmenistan,2019,3817.0
+Asia: Students from Turkmenistan,2020,4304.0
+Europe: Students from Germany,2015,60.0
+Europe: Students from Germany,2016,59.0
+Europe: Students from Germany,2017,78.0
+Europe: Students from Germany,2018,100.0
+Europe: Students from Germany,2019,98.0
+Europe: Students from Germany,2020,125.0
+Asia: Students from Malaysia,2015,2.0
+Asia: Students from Malaysia,2016,3.0
+Asia: Students from Malaysia,2017,1.0
+Asia: Students from Malaysia,2018,
+Asia: Students from Malaysia,2019,1.0
+Asia: Students from Malaysia,2020,1.0
+Asia: Students from India,2015,3925.0
+Asia: Students from India,2016,4773.0
+Asia: Students from India,2017,5885.0
+Asia: Students from India,2018,7669.0
+Asia: Students from India,2019,10698.0
+Asia: Students from India,2020,14383.0
+Europe: Students from Bosnia and Herzegovina,2015,
+Europe: Students from Bosnia and Herzegovina,2016,
+Europe: Students from Bosnia and Herzegovina,2017,1.0
+Europe: Students from Bosnia and Herzegovina,2018,
+Europe: Students from Bosnia and Herzegovina,2019,
+Europe: Students from Bosnia and Herzegovina,2020,
+Asia: Students from Georgia,2015,895.0
+Asia: Students from Georgia,2016,1015.0
+Asia: Students from Georgia,2017,2605.0
+Asia: Students from Georgia,2018,2114.0
+Asia: Students from Georgia,2019,1851.0
+Asia: Students from Georgia,2020,1499.0
+Asia: Students from Lebanon,2015,567.0
+Asia: Students from Lebanon,2016,557.0
+Asia: Students from Lebanon,2017,594.0
+Asia: Students from Lebanon,2018,674.0
+Asia: Students from Lebanon,2019,803.0
+Asia: Students from Lebanon,2020,862.0
+Asia: Students from Turkey,2015,1400.0
+Asia: Students from Turkey,2016,1465.0
+Asia: Students from Turkey,2017,1427.0
+Asia: Students from Turkey,2018,1406.0
+Asia: Students from Turkey,2019,1593.0
+Asia: Students from Turkey,2020,2284.0
+Asia: Students from Brunei Darussalam,2015,
+Asia: Students from Brunei Darussalam,2016,
+Asia: Students from Brunei Darussalam,2017,
+Asia: Students from Brunei Darussalam,2018,
+Asia: Students from Brunei Darussalam,2019,
+Asia: Students from Brunei Darussalam,2020,
+Asia: Students from Saudi Arabia,2015,14.0
+Asia: Students from Saudi Arabia,2016,11.0
+Asia: Students from Saudi Arabia,2017,14.0
+Asia: Students from Saudi Arabia,2018,12.0
+Asia: Students from Saudi Arabia,2019,11.0
+Asia: Students from Saudi Arabia,2020,31.0
+Asia: Students from Israel,2015,822.0
+Asia: Students from Israel,2016,886.0
+Asia: Students from Israel,2017,1079.0
+Asia: Students from Israel,2018,1537.0
+Asia: Students from Israel,2019,2013.0
+Asia: Students from Israel,2020,2118.0
+Europe: Students from France,2015,8.0
+Europe: Students from France,2016,9.0
+Europe: Students from France,2017,10.0
+Europe: Students from France,2018,16.0
+Europe: Students from France,2019,24.0
+Europe: Students from France,2020,24.0
+Asia: Students from Pakistan,2015,114.0
+Asia: Students from Pakistan,2016,96.0
+Asia: Students from Pakistan,2017,102.0
+Asia: Students from Pakistan,2018,173.0
+Asia: Students from Pakistan,2019,246.0
+Asia: Students from Pakistan,2020,264.0
+Europe: Students from Albania,2015,5.0
+Europe: Students from Albania,2016,1.0
+Europe: Students from Albania,2017,1.0
+Europe: Students from Albania,2018,
+Europe: Students from Albania,2019,
+Europe: Students from Albania,2020,
+Asia: Students from Bangladesh,2015,48.0
+Asia: Students from Bangladesh,2016,60.0
+Asia: Students from Bangladesh,2017,56.0
+Asia: Students from Bangladesh,2018,75.0
+Asia: Students from Bangladesh,2019,83.0
+Asia: Students from Bangladesh,2020,146.0
+Asia: Students from the Yemen,2015,73.0
+Asia: Students from the Yemen,2016,87.0
+Asia: Students from the Yemen,2017,121.0
+Asia: Students from the Yemen,2018,153.0
+Asia: Students from the Yemen,2019,164.0
+Asia: Students from the Yemen,2020,186.0
+Europe: Students from Hungary,2015,5.0
+Europe: Students from Hungary,2016,9.0
+Europe: Students from Hungary,2017,10.0
+Europe: Students from Hungary,2018,6.0
+Europe: Students from Hungary,2019,14.0
+Europe: Students from Hungary,2020,16.0
+Asia: Students from Thailand,2015,2.0
+Asia: Students from Thailand,2016,1.0
+Asia: Students from Thailand,2017,1.0
+Asia: Students from Thailand,2018,1.0
+Asia: Students from Thailand,2019,1.0
+Asia: Students from Thailand,2020,3.0
+Europe: Students from Estonia,2015,2.0
+Europe: Students from Estonia,2016,4.0
+Europe: Students from Estonia,2017,4.0
+Europe: Students from Estonia,2018,4.0
+Europe: Students from Estonia,2019,4.0
+Europe: Students from Estonia,2020,7.0
+Asia: Students from Nepal,2015,41.0
+Asia: Students from Nepal,2016,36.0
+Asia: Students from Nepal,2017,37.0
+Asia: Students from Nepal,2018,13.0
+Asia: Students from Nepal,2019,5.0
+Asia: Students from Nepal,2020,7.0
+Asia: Students from Kyrgyzstan,2015,21.0
+Asia: Students from Kyrgyzstan,2016,11.0
+Asia: Students from Kyrgyzstan,2017,11.0
+Asia: Students from Kyrgyzstan,2018,15.0
+Asia: Students from Kyrgyzstan,2019,18.0
+Asia: Students from Kyrgyzstan,2020,18.0
+Asia: Students from Cyprus,2015,16.0
+Asia: Students from Cyprus,2016,13.0
+Asia: Students from Cyprus,2017,12.0
+Asia: Students from Cyprus,2018,11.0
+Asia: Students from Cyprus,2019,8.0
+Asia: Students from Cyprus,2020,6.0
+Europe: Students from Austria,2015,15.0
+Europe: Students from Austria,2016,2.0
+Europe: Students from Austria,2017,2.0
+Europe: Students from Austria,2018,4.0
+Europe: Students from Austria,2019,7.0
+Europe: Students from Austria,2020,9.0
+Asia: Students from Kuwait,2015,57.0
+Asia: Students from Kuwait,2016,62.0
+Asia: Students from Kuwait,2017,77.0
+Asia: Students from Kuwait,2018,61.0
+Asia: Students from Kuwait,2019,40.0
+Asia: Students from Kuwait,2020,36.0
+Asia: Students from Tajikistan,2015,334.0
+Asia: Students from Tajikistan,2016,268.0
+Asia: Students from Tajikistan,2017,210.0
+Asia: Students from Tajikistan,2018,207.0
+Asia: Students from Tajikistan,2019,175.0
+Asia: Students from Tajikistan,2020,106.0
+Asia: Students from Bahrain,2015,22.0
+Asia: Students from Bahrain,2016,8.0
+Asia: Students from Bahrain,2017,7.0
+Asia: Students from Bahrain,2018,2.0
+Asia: Students from Bahrain,2019,3.0
+Asia: Students from Bahrain,2020,4.0
+Asia: Students from Indonesia,2015,1.0
+Asia: Students from Indonesia,2016,1.0
+Asia: Students from Indonesia,2017,2.0
+Asia: Students from Indonesia,2018,2.0
+Asia: Students from Indonesia,2019,4.0
+Asia: Students from Indonesia,2020,2.0
+Asia: Students from the Philippines,2015,
+Asia: Students from the Philippines,2016,
+Asia: Students from the Philippines,2017,1.0
+Asia: Students from the Philippines,2018,1.0
+Asia: Students from the Philippines,2019,2.0
+Asia: Students from the Philippines,2020,3.0
+Europe: Students from Denmark,2015,5.0
+Europe: Students from Denmark,2016,4.0
+Europe: Students from Denmark,2017,5.0
+Europe: Students from Denmark,2018,7.0
+Europe: Students from Denmark,2019,10.0
+Europe: Students from Denmark,2020,5.0
+Asia: Students from Armenia,2015,431.0
+Asia: Students from Armenia,2016,46.0
+Asia: Students from Armenia,2017,73.0
+Asia: Students from Armenia,2018,61.0
+Asia: Students from Armenia,2019,82.0
+Asia: Students from Armenia,2020,60.0
+Asia: Students from the United Arab Emirates,2015,4.0
+Asia: Students from the United Arab Emirates,2016,4.0
+Asia: Students from the United Arab Emirates,2017,9.0
+Asia: Students from the United Arab Emirates,2018,16.0
+Asia: Students from the United Arab Emirates,2019,11.0
+Asia: Students from the United Arab Emirates,2020,19.0
+Asia: Students from Sri Lanka,2015,64.0
+Asia: Students from Sri Lanka,2016,63.0
+Asia: Students from Sri Lanka,2017,38.0
+Asia: Students from Sri Lanka,2018,25.0
+Asia: Students from Sri Lanka,2019,17.0
+Asia: Students from Sri Lanka,2020,17.0
+Europe: Students from Croatia,2015,5.0
+Europe: Students from Croatia,2016,6.0
+Europe: Students from Croatia,2017,4.0
+Europe: Students from Croatia,2018,7.0
+Europe: Students from Croatia,2019,8.0
+Europe: Students from Croatia,2020,3.0
+Asia: Students from Maldives,2015,37.0
+Asia: Students from Maldives,2016,40.0
+Asia: Students from Maldives,2017,32.0
+Asia: Students from Maldives,2018,42.0
+Asia: Students from Maldives,2019,42.0
+Asia: Students from Maldives,2020,56.0
+Asia: Students from China,2015,1750.0
+Asia: Students from China,2016,1299.0
+Asia: Students from China,2017,1252.0
+Asia: Students from China,2018,1539.0
+Asia: Students from China,2019,1816.0
+Asia: Students from China,2020,2601.0
+Asia: Students from Jordan,2015,1911.0
+Asia: Students from Jordan,2016,2090.0
+Asia: Students from Jordan,2017,2075.0
+Asia: Students from Jordan,2018,1752.0
+Asia: Students from Jordan,2019,1895.0
+Asia: Students from Jordan,2020,1526.0
+Europe: Students from the United Kingdom,2015,43.0
+Europe: Students from the United Kingdom,2016,44.0
+Europe: Students from the United Kingdom,2017,42.0
+Europe: Students from the United Kingdom,2018,42.0
+Europe: Students from the United Kingdom,2019,63.0
+Europe: Students from the United Kingdom,2020,85.0
+Oceania: Students from unknown countries,2015,
+Oceania: Students from unknown countries,2016,
+Oceania: Students from unknown countries,2017,
+Oceania: Students from unknown countries,2018,
+Oceania: Students from unknown countries,2019,
+Oceania: Students from unknown countries,2020,
+Europe: Students from Malta,2015,
+Europe: Students from Malta,2016,
+Europe: Students from Malta,2017,1.0
+Europe: Students from Malta,2018,
+Europe: Students from Malta,2019,
+Europe: Students from Malta,2020,
+Oceania: Students from Papua New Guinea,2015,
+Oceania: Students from Papua New Guinea,2016,
+Oceania: Students from Papua New Guinea,2017,
+Oceania: Students from Papua New Guinea,2018,
+Oceania: Students from Papua New Guinea,2019,
+Oceania: Students from Papua New Guinea,2020,
+Europe: Students from Iceland,2015,
+Europe: Students from Iceland,2016,
+Europe: Students from Iceland,2017,1.0
+Europe: Students from Iceland,2018,1.0
+Europe: Students from Iceland,2019,1.0
+Europe: Students from Iceland,2020,2.0
+Europe: Students from Slovakia,2015,5.0
+Europe: Students from Slovakia,2016,16.0
+Europe: Students from Slovakia,2017,41.0
+Europe: Students from Slovakia,2018,30.0
+Europe: Students from Slovakia,2019,41.0
+Europe: Students from Slovakia,2020,74.0
+Europe: Students from North Macedonia,2015,2.0
+Europe: Students from North Macedonia,2016,3.0
+Europe: Students from North Macedonia,2017,29.0
+Europe: Students from North Macedonia,2018,5.0
+Europe: Students from North Macedonia,2019,4.0
+Europe: Students from North Macedonia,2020,1.0
+Europe: Students from Poland,2015,689.0
+Europe: Students from Poland,2016,672.0
+Europe: Students from Poland,2017,718.0
+Europe: Students from Poland,2018,678.0
+Europe: Students from Poland,2019,695.0
+Europe: Students from Poland,2020,558.0
+Europe: Students from San Marino,2015,
+Europe: Students from San Marino,2016,
+Europe: Students from San Marino,2017,
+Europe: Students from San Marino,2018,
+Europe: Students from San Marino,2019,
+Europe: Students from San Marino,2020,
+Europe: Students from Lithuania,2015,48.0
+Europe: Students from Lithuania,2016,10.0
+Europe: Students from Lithuania,2017,14.0
+Europe: Students from Lithuania,2018,17.0
+Europe: Students from Lithuania,2019,18.0
+Europe: Students from Lithuania,2020,15.0
+Oceania: Students from Tuvalu,2015,1.0
+Oceania: Students from Tuvalu,2016,
+Oceania: Students from Tuvalu,2017,4.0
+Oceania: Students from Tuvalu,2018,
+Oceania: Students from Tuvalu,2019,
+Oceania: Students from Tuvalu,2020,
+Oceania: Students from Kiribati,2015,
+Oceania: Students from Kiribati,2016,
+Oceania: Students from Kiribati,2017,
+Oceania: Students from Kiribati,2018,
+Oceania: Students from Kiribati,2019,
+Oceania: Students from Kiribati,2020,
+Europe: Students from Switzerland,2015,3.0
+Europe: Students from Switzerland,2016,2.0
+Europe: Students from Switzerland,2017,4.0
+Europe: Students from Switzerland,2018,7.0
+Europe: Students from Switzerland,2019,5.0
+Europe: Students from Switzerland,2020,6.0
+Oceania: Students from Tonga,2015,
+Oceania: Students from Tonga,2016,
+Oceania: Students from Tonga,2017,
+Oceania: Students from Tonga,2018,
+Oceania: Students from Tonga,2019,
+Oceania: Students from Tonga,2020,
+Europe: Students from Liechtenstein,2015,
+Europe: Students from Liechtenstein,2016,
+Europe: Students from Liechtenstein,2017,
+Europe: Students from Liechtenstein,2018,
+Europe: Students from Liechtenstein,2019,
+Europe: Students from Liechtenstein,2020,
+Europe: Students from the Russian Federation,2015,1814.0
+Europe: Students from the Russian Federation,2016,1509.0
+Europe: Students from the Russian Federation,2017,1114.0
+Europe: Students from the Russian Federation,2018,783.0
+Europe: Students from the Russian Federation,2019,657.0
+Europe: Students from the Russian Federation,2020,623.0
+Oceania: Students from New Zealand,2015,1.0
+Oceania: Students from New Zealand,2016,
+Oceania: Students from New Zealand,2017,2.0
+Oceania: Students from New Zealand,2018,2.0
+Oceania: Students from New Zealand,2019,1.0
+Oceania: Students from New Zealand,2020,8.0
+Oceania: Students from the Federated States of Micronesia,2015,
+Oceania: Students from the Federated States of Micronesia,2016,
+Oceania: Students from the Federated States of Micronesia,2017,
+Oceania: Students from the Federated States of Micronesia,2018,
+Oceania: Students from the Federated States of Micronesia,2019,
+Oceania: Students from the Federated States of Micronesia,2020,
+Europe: Students from Montenegro,2015,2.0
+Europe: Students from Montenegro,2016,2.0
+Europe: Students from Montenegro,2017,3.0
+Europe: Students from Montenegro,2018,1.0
+Europe: Students from Montenegro,2019,1.0
+Europe: Students from Montenegro,2020,1.0
+Europe: Students from Spain,2015,14.0
+Europe: Students from Spain,2016,12.0
+Europe: Students from Spain,2017,17.0
+Europe: Students from Spain,2018,16.0
+Europe: Students from Spain,2019,17.0
+Europe: Students from Spain,2020,18.0
+Europe: Students from the Republic of Moldova,2015,763.0
+Europe: Students from the Republic of Moldova,2016,630.0
+Europe: Students from the Republic of Moldova,2017,875.0
+Europe: Students from the Republic of Moldova,2018,694.0
+Europe: Students from the Republic of Moldova,2019,648.0
+Europe: Students from the Republic of Moldova,2020,301.0
+Europe: Students from Italy,2015,20.0
+Europe: Students from Italy,2016,22.0
+Europe: Students from Italy,2017,22.0
+Europe: Students from Italy,2018,20.0
+Europe: Students from Italy,2019,13.0
+Europe: Students from Italy,2020,18.0
+Oceania: Students from the Solomon Islands,2015,
+Oceania: Students from the Solomon Islands,2016,
+Oceania: Students from the Solomon Islands,2017,
+Oceania: Students from the Solomon Islands,2018,
+Oceania: Students from the Solomon Islands,2019,
+Oceania: Students from the Solomon Islands,2020,
+Oceania: Students from Australia,2015,2.0
+Oceania: Students from Australia,2016,2.0
+Oceania: Students from Australia,2017,1.0
+Oceania: Students from Australia,2018,4.0
+Oceania: Students from Australia,2019,2.0
+Oceania: Students from Australia,2020,7.0
+Europe: Students from Slovenia,2015,1.0
+Europe: Students from Slovenia,2016,1.0
+Europe: Students from Slovenia,2017,2.0
+Europe: Students from Slovenia,2018,1.0
+Europe: Students from Slovenia,2019,
+Europe: Students from Slovenia,2020,2.0
+Oceania: Students from Samoa,2015,
+Oceania: Students from Samoa,2016,
+Oceania: Students from Samoa,2017,
+Oceania: Students from Samoa,2018,
+Oceania: Students from Samoa,2019,
+Oceania: Students from Samoa,2020,1.0
+Oceania: Students from Vanuatu,2015,
+Oceania: Students from Vanuatu,2016,
+Oceania: Students from Vanuatu,2017,
+Oceania: Students from Vanuatu,2018,
+Oceania: Students from Vanuatu,2019,
+Oceania: Students from Vanuatu,2020,
+Europe: Students from Portugal,2015,5.0
+Europe: Students from Portugal,2016,6.0
+Europe: Students from Portugal,2017,8.0
+Europe: Students from Portugal,2018,9.0
+Europe: Students from Portugal,2019,10.0
+Europe: Students from Portugal,2020,10.0
+Oceania: Students from the Marshall Islands,2015,
+Oceania: Students from the Marshall Islands,2016,
+Oceania: Students from the Marshall Islands,2017,
+Oceania: Students from the Marshall Islands,2018,
+Oceania: Students from the Marshall Islands,2019,
+Oceania: Students from the Marshall Islands,2020,1.0
+Europe: Students from Ireland,2015,4.0
+Europe: Students from Ireland,2016,4.0
+Europe: Students from Ireland,2017,4.0
+Europe: Students from Ireland,2018,5.0
+Europe: Students from Ireland,2019,9.0
+Europe: Students from Ireland,2020,15.0
+Europe: Students from Luxembourg,2015,
+Europe: Students from Luxembourg,2016,
+Europe: Students from Luxembourg,2017,
+Europe: Students from Luxembourg,2018,
+Europe: Students from Luxembourg,2019,
+Europe: Students from Luxembourg,2020,
+Europe: Students from the Ukraine,2015,
+Europe: Students from the Ukraine,2016,
+Europe: Students from the Ukraine,2017,
+Europe: Students from the Ukraine,2018,
+Europe: Students from the Ukraine,2019,
+Europe: Students from the Ukraine,2020,
+Oceania: Students from Fiji,2015,
+Oceania: Students from Fiji,2016,
+Oceania: Students from Fiji,2017,
+Oceania: Students from Fiji,2018,
+Oceania: Students from Fiji,2019,
+Oceania: Students from Fiji,2020,
+Europe: Students from Serbia,2015,9.0
+Europe: Students from Serbia,2016,20.0
+Europe: Students from Serbia,2017,16.0
+Europe: Students from Serbia,2018,12.0
+Europe: Students from Serbia,2019,11.0
+Europe: Students from Serbia,2020,8.0
+Europe: Students from Norway,2015,6.0
+Europe: Students from Norway,2016,4.0
+Europe: Students from Norway,2017,3.0
+Europe: Students from Norway,2018,6.0
+Europe: Students from Norway,2019,6.0
+Europe: Students from Norway,2020,12.0
+Oceania: Students from Palau,2015,
+Oceania: Students from Palau,2016,
+Oceania: Students from Palau,2017,
+Oceania: Students from Palau,2018,
+Oceania: Students from Palau,2019,
+Oceania: Students from Palau,2020,
+Caribbean and Central America: Students from Anguilla,2015,
+Caribbean and Central America: Students from Anguilla,2016,
+Caribbean and Central America: Students from Anguilla,2017,
+Caribbean and Central America: Students from Anguilla,2018,
+Caribbean and Central America: Students from Anguilla,2019,
+Caribbean and Central America: Students from Anguilla,2020,16.0
+Oceania: Students from Niue,2015,
+Oceania: Students from Niue,2016,
+Oceania: Students from Niue,2017,
+Oceania: Students from Niue,2018,
+Oceania: Students from Niue,2019,
+Oceania: Students from Niue,2020,
+Oceania: Students from Tokelau,2015,
+Oceania: Students from Tokelau,2016,
+Oceania: Students from Tokelau,2017,
+Oceania: Students from Tokelau,2018,
+Oceania: Students from Tokelau,2019,
+Oceania: Students from Tokelau,2020,
+Caribbean and Central America: Students from the Cayman Islands,2015,
+Caribbean and Central America: Students from the Cayman Islands,2016,
+Caribbean and Central America: Students from the Cayman Islands,2017,
+Caribbean and Central America: Students from the Cayman Islands,2018,
+Caribbean and Central America: Students from the Cayman Islands,2019,
+Caribbean and Central America: Students from the Cayman Islands,2020,
+Europe: Students from the Netherlands,2015,6.0
+Europe: Students from the Netherlands,2016,4.0
+Europe: Students from the Netherlands,2017,5.0
+Europe: Students from the Netherlands,2018,6.0
+Europe: Students from the Netherlands,2019,6.0
+Europe: Students from the Netherlands,2020,12.0
+Oceania: Students from the Cook Islands,2015,
+Oceania: Students from the Cook Islands,2016,
+Oceania: Students from the Cook Islands,2017,
+Oceania: Students from the Cook Islands,2018,
+Oceania: Students from the Cook Islands,2019,
+Oceania: Students from the Cook Islands,2020,
+Europe: Students from Latvia,2015,18.0
+Europe: Students from Latvia,2016,11.0
+Europe: Students from Latvia,2017,19.0
+Europe: Students from Latvia,2018,24.0
+Europe: Students from Latvia,2019,12.0
+Europe: Students from Latvia,2020,11.0
+Europe: Students from Sweden,2015,17.0
+Europe: Students from Sweden,2016,21.0
+Europe: Students from Sweden,2017,31.0
+Europe: Students from Sweden,2018,38.0
+Europe: Students from Sweden,2019,38.0
+Europe: Students from Sweden,2020,54.0
+Caribbean and Central America: Students from Montserrat,2015,
+Caribbean and Central America: Students from Montserrat,2016,
+Caribbean and Central America: Students from Montserrat,2017,
+Caribbean and Central America: Students from Montserrat,2018,
+Caribbean and Central America: Students from Montserrat,2019,
+Caribbean and Central America: Students from Montserrat,2020,
+Europe: Students from unknown countries,2015,
+Europe: Students from unknown countries,2016,
+Europe: Students from unknown countries,2017,4.0
+Europe: Students from unknown countries,2018,
+Europe: Students from unknown countries,2019,
+Europe: Students from unknown countries,2020,
+Europe: Students from Gibraltar,2015,
+Europe: Students from Gibraltar,2016,
+Europe: Students from Gibraltar,2017,
+Europe: Students from Gibraltar,2018,
+Europe: Students from Gibraltar,2019,
+Europe: Students from Gibraltar,2020,
+Europe: Students from Romania,2015,5.0
+Europe: Students from Romania,2016,6.0
+Europe: Students from Romania,2017,11.0
+Europe: Students from Romania,2018,11.0
+Europe: Students from Romania,2019,7.0
+Europe: Students from Romania,2020,8.0
+Europe: Students from Monaco,2015,1.0
+Europe: Students from Monaco,2016,
+Europe: Students from Monaco,2017,4.0
+Europe: Students from Monaco,2018,
+Europe: Students from Monaco,2019,
+Europe: Students from Monaco,2020,4.0
+Oceania: Students from Nauru,2015,
+Oceania: Students from Nauru,2016,
+Oceania: Students from Nauru,2017,
+Oceania: Students from Nauru,2018,
+Oceania: Students from Nauru,2019,
+Oceania: Students from Nauru,2020,
+Africa: Students from South Sudan,2015,
+Africa: Students from South Sudan,2016,
+Africa: Students from South Sudan,2017,
+Africa: Students from South Sudan,2018,
+Africa: Students from South Sudan,2019,2.0
+Africa: Students from South Sudan,2020,
+Africa: Students from Sudan,2015,233.0
+Africa: Students from Sudan,2016,236.0
+Africa: Students from Sudan,2017,246.0
+Africa: Students from Sudan,2018,243.0
+Africa: Students from Sudan,2019,235.0
+Africa: Students from Sudan,2020,246.0
