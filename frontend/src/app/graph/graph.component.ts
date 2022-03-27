@@ -12,61 +12,87 @@ import DataLabelsPlugin from 'chartjs-plugin-datalabels';
   styleUrls: ['./graph.component.css']
 })
 export class GraphComponent implements OnInit {
+  location: Array<string> = [];
+  value: Array<number> = [];
+  year: Array<number> = [];
+
   options: any;
   constructor(private backend: BackendService) { }
 
   async getData() {
-    this.backend.getRequest('localhost:3000/continents').subscribe(data => {
-      return data;
-    })
+
+  }
+
+  parseData(data: object) {
+    let jsonData = JSON.parse(JSON.stringify(data));
+    console.log(jsonData);
+    // console.log(jsonData['Location'])
+    // console.log(jsonData['Value'])
+    // console.log(jsonData['Year'])
+    // json to array now
+    for (let index in jsonData['Location']) {
+      this.location.push(jsonData['Location'][index]);
+      this.value.push(jsonData['Value'][index]);
+      this.year.push(jsonData['Value'][index]);
+    }
+    console.log(this.location)
+    console.log(this.value)   
+    console.log(this.year) 
   }
 
   ngOnInit(): void {
-    this.getData()
-      .then(data => {
-        console.log(data)
+    this.backend.getRequest('http://localhost:3000/continents').subscribe(data => {
+      console.log(data)
+        this.parseData(data!);
         const xAxisData = [];
-        const data1 = [];
-        const data2 = [];
+        const datas: Array<Array<number>> = [];
+        const names: Array<string> = [];
 
-        for (let i = 0; i < 100; i++) {
-          xAxisData.push('category' + i);
-          data1.push((Math.sin(i / 5) * (i / 5 - 10) + i / 6) * 5);
-          data2.push((Math.cos(i / 5) * (i / 5 - 10) + i / 6) * 5);
+        for (let i = 0; i < this.location.length/6; i++) {
+          let temp: Array<number> = []
+          names.push(this.location[i*6]);
+
+          for (let j = 0; j < 6; j++) {
+            // 6 of these has something
+            temp.push(this.value[i*6+j])
+          }
+          datas.push(temp)
+        }
+        let series_info = [];
+        for (let i = 0; i < this.location.length/6; i++) {
+          series_info.push({
+            name: names[i],
+            type: 'bar',
+            data: datas[i],
+            animationDelay: (idx: number) => idx * 10 + i*100,
+          })
         }
 
         this.options = {
+          // title: {
+          //   text: "Number of international students by Continent of origin",
+          //   subtext: "2015-2020",
+          //   verticalAlign: top,
+
+          // },
           legend: {
-            data: ['bar', 'bar2'],
+            data: this.location,
             align: 'left',
           },
           tooltip: {},
           xAxis: {
-            data: xAxisData,
+            data: [2015, 2016, 2017, 2018, 2019, 2020],
             silent: false,
             splitLine: {
               show: false,
             },
           },
           yAxis: {},
-          series: [
-            {
-              name: 'bar',
-              type: 'bar',
-              data: data1,
-              animationDelay: (idx: number) => idx * 10,
-            },
-            {
-              name: 'bar2',
-              type: 'bar',
-              data: data2,
-              animationDelay: (idx: number) => idx * 10 + 100,
-            },
-          ],
+          series: series_info,
           animationEasing: 'elasticOut',
           animationDelayUpdate: (idx: number) => idx * 5,
         };
-      })
+    })
 
   }
 
