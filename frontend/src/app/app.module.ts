@@ -6,17 +6,25 @@ import { AppComponent } from './app.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { FooterComponent } from './footer/footer.component';
 import { DescComponent } from './desc/desc.component';
+import { GraphComponent } from './graph/graph.component';
+import { NgChartsModule } from 'ng2-charts';
+import { NgxEchartsModule } from 'ngx-echarts';
 
 @NgModule({
   declarations: [
     AppComponent,
     NavbarComponent,
     FooterComponent,
-    DescComponent
+    DescComponent,
+    GraphComponent,
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    NgChartsModule,
+    NgxEchartsModule.forRoot({
+      echarts: () => import('echarts')
+    }),
   ],
   providers: [],
   bootstrap: [AppComponent]
