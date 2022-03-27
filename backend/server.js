@@ -15,7 +15,7 @@ app.listen(PORT, () => {
 app.get('/continents', (req, res) => {
     let rawdata = fs.readFileSync('data_continents.json');
     let data = JSON.parse(rawdata);
-    // console.log(data)
+    console.log("got a get request for continents")
     res.status(200).send(data)
 })
 
