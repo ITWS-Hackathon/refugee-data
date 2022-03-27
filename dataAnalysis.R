@@ -24,6 +24,7 @@ df <- data.frame(word = names(words),freq=words)
 df = df[-1,]
 
 set.seed(1234) # for reproducibility 
-#wordcloud(words = df$word, freq = df$freq, min.freq = 2, max.words=200, random.order=FALSE, rot.per=0.35, colors=brewer.pal(8, "Dark2"))
+# wordcloud(words = df$word, freq = df$freq, min.freq = 2, max.words=200, random.order=FALSE, rot.per=0.35, colors=brewer.pal(8, "Dark2"))
 wordcloud2(data=df, size=0.5, color='random-dark', rotateRatio = 1)
+# letterCloud(data=df, "Ukraine", color='random-dark', size=1, backgroundColor="white")
            
