@@ -3,3 +3,7 @@
     margin: auto;
     text-align: center;
 }
+
+.wide {
+    padding: 0 70px;
+}
